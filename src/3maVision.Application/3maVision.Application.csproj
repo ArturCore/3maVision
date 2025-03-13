@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\3maVision.Domain\3maVision.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
